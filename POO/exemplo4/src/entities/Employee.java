@@ -8,13 +8,13 @@ public class Employee {
         return grossSalary - Tax;
     }
     public void IncreaseSalary(double percentage){
-        grossSalary += grossSalary / percentage;
+        grossSalary += grossSalary*percentage/100;
     }
     public String toString(){
         return
                 name
                 +" , $ "
-                +String.format("%.2f",grossSalary);
+                +String.format("%.2f",NetSalary());
     }
 
 }

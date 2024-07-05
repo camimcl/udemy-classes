@@ -18,12 +18,14 @@ public class Program {
         System.out.println("Tax: ");
         employee.Tax = sc.nextDouble();
 
-        System.out.println("Employee: "+employee.name +", $ " + employee.NetSalary());
+        System.out.println("Employee: "+employee);
 
         System.out.println("Which percentage to increase salary? ");
         double percentage = sc.nextDouble();
         employee.IncreaseSalary(percentage);
 
         System.out.println("Updated Data: "+employee);
+
+        sc.close();
     }
 }
