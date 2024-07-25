@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/POO/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/POO/Encapsulamento/Encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Funcoes/Funcoes.iml" filepath="$PROJECT_DIR$/Funcoes/Funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/POO/Matrizes/Matrizes.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/Membros Estaticos/Membros Estaticos.iml" filepath="$PROJECT_DIR$/POO/Membros Estaticos/Membros Estaticos.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Udemy classes.iml" filepath="$PROJECT_DIR$/.idea/Udemy classes.iml" />
@@ -14,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/POO/exemplo4/exemplo4.iml" filepath="$PROJECT_DIR$/POO/exemplo4/exemplo4.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/exemplo5/exemplo5.iml" filepath="$PROJECT_DIR$/POO/exemplo5/exemplo5.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/exemplo6/exemplo6.iml" filepath="$PROJECT_DIR$/POO/exemplo6/exemplo6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/exercicio-funcionarios-listas/exercicio-funcionarios-listas.iml" filepath="$PROJECT_DIR$/POO/exercicio-funcionarios-listas/exercicio-funcionarios-listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/java-data/java-data.iml" filepath="$PROJECT_DIR$/POO/java-data/java-data.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/vetores-exercicio-2/vetores-exercicio-2.iml" filepath="$PROJECT_DIR$/POO/vetores-exercicio-2/vetores-exercicio-2.iml" />
     </modules>
   </component>
