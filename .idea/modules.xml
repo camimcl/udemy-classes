@@ -4,12 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/POO/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/POO/Encapsulamento/Encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Funcoes/Funcoes.iml" filepath="$PROJECT_DIR$/Funcoes/Funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/POO/Heranca/Heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/POO/Matrizes/Matrizes.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/Membros Estaticos/Membros Estaticos.iml" filepath="$PROJECT_DIR$/POO/Membros Estaticos/Membros Estaticos.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Udemy classes.iml" filepath="$PROJECT_DIR$/.idea/Udemy classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/POO/Vetores/Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/composicao-de-objetos/composicao-de-objetos.iml" filepath="$PROJECT_DIR$/POO/composicao-de-objetos/composicao-de-objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/enums/enums.iml" filepath="$PROJECT_DIR$/POO/enums/enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/exemplo-7-composicao/exemplo-7-composicao.iml" filepath="$PROJECT_DIR$/POO/exemplo-7-composicao/exemplo-7-composicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/exemplo1/exemplo1.iml" filepath="$PROJECT_DIR$/POO/exemplo1/exemplo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/exemplo2/exemplo2.iml" filepath="$PROJECT_DIR$/POO/exemplo2/exemplo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/exemplo3/exemplo3.iml" filepath="$PROJECT_DIR$/POO/exemplo3/exemplo3.iml" />

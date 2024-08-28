@@ -63,6 +63,7 @@ public class Worker {
     public void removeContract(HourContract contract){
         contracts.remove(contract);
     }
+
     public double income(Integer year,Integer month){
         double sum = baseSalary;
         Calendar cal = Calendar.getInstance();

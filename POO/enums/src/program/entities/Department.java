@@ -5,6 +5,9 @@ public class Department {
 
     public Department() {
     }
+    public Department(String name) {
+        this.name = name;
+    }
 
     public String getName() {
         return name;
@@ -13,9 +16,6 @@ public class Department {
     public void setName(String name) {
         this.name = name;
     }
-
-    public Department(String name) {
-        this.name = name;
-    }
 }
+
 

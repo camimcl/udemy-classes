@@ -31,6 +31,7 @@ public class Program {
 
         //department tem que ser instanciado para poder passar o string departmentname
         Worker worker = new Worker(name,WorkerLevel.valueOf(level),baseSalary,new Department(department));
+        //Java calendar
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
         for (int i = 1; i <= n ; i++) {
@@ -48,6 +49,7 @@ public class Program {
         }
         System.out.println("Enter month and year to calculate income(MM/YYYY):");
         String monthAndYear = sc.next();
+        //separador de string
         int month = Integer.parseInt(monthAndYear.substring(0,2));
         int year = Integer.parseInt(monthAndYear.substring(3));
         System.out.println("Name: " +worker.getName());
